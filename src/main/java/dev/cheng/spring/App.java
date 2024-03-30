@@ -1,4 +1,4 @@
-package dev.cheng.spring2;
+package dev.cheng.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
