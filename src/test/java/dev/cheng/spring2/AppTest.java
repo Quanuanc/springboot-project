@@ -8,6 +8,7 @@ class AppTest {
 
     @Test
     void test1() {
+        System.out.println("Hello, Test");
     }
 
 }
